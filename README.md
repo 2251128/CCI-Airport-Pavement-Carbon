@@ -28,7 +28,7 @@ The manuscript-scale finite-element runway input and the complete runway-profile
 
 ## National emission classification
 
-The inventory uses an analysis threshold of **36 km/h** to select phase-specific emission factors: records below the threshold use idle/low-thrust factors, whereas records at or above the threshold use take-off factors. This threshold is an analysis criterion for the present inventory and is not presented as a universal industry boundary.
+The inventory uses an analysis threshold of 30kt to select phase-specific emission factors: records below the threshold use idle/low-thrust factors, whereas records at or above the threshold use take-off factors. This threshold is an analysis criterion for the present inventory and is not presented as a universal industry boundary.
 
 The revised inventory code also applies two safeguards:
 
