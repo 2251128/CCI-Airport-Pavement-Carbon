@@ -35,7 +35,7 @@ The revised inventory code also applies two safeguards:
 1. a missing airport-aircraft frequency is logged and skipped rather than replaced by an arbitrary default frequency; and
 2. factor units declared in the source workbook are interpreted explicitly and reported pollutant masses are normalized to grams.
 
-**nvPM note:** the bundled factor workbook declares nvPM factors as `mg/MJ`. The revised code therefore converts these factors to `g/MJ` before reporting nvPM mass in grams. The original source metadata should be checked before changing manuscript-level nvPM values.
+
 
 ## Running the public examples
 
